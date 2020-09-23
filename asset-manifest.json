@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.edc481cf.chunk.js",
-    "main.js.map": "/static/js/main.edc481cf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a13e9720.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a13e9720.js.map",
-    "static/js/2.2e2c8c34.chunk.js": "/static/js/2.2e2c8c34.chunk.js",
-    "static/js/2.2e2c8c34.chunk.js.map": "/static/js/2.2e2c8c34.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.13457e80105fa502bc092a5de3d4f8ec.js": "/precache-manifest.13457e80105fa502bc092a5de3d4f8ec.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2e2c8c34.chunk.js.LICENSE.txt": "/static/js/2.2e2c8c34.chunk.js.LICENSE.txt"
+    "main.css": "tugas1_react_js/static/css/main.5f361e03.chunk.css",
+    "main.js": "tugas1_react_js/static/js/main.edc481cf.chunk.js",
+    "main.js.map": "tugas1_react_js/static/js/main.edc481cf.chunk.js.map",
+    "runtime-main.js": "tugas1_react_js/static/js/runtime-main.a13e9720.js",
+    "runtime-main.js.map": "tugas1_react_js/static/js/runtime-main.a13e9720.js.map",
+    "static/js/2.2e2c8c34.chunk.js": "tugas1_react_js/static/js/2.2e2c8c34.chunk.js",
+    "static/js/2.2e2c8c34.chunk.js.map": "tugas1_react_js/static/js/2.2e2c8c34.chunk.js.map",
+    "index.html": "tugas1_react_js/index.html",
+    "precache-manifest.13457e80105fa502bc092a5de3d4f8ec.js": "tugas1_react_js/precache-manifest.13457e80105fa502bc092a5de3d4f8ec.js",
+    "service-worker.js": "tugas1_react_js/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "tugas1_react_js/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2e2c8c34.chunk.js.LICENSE.txt": "tugas1_react_js/static/js/2.2e2c8c34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a13e9720.js",
-    "static/js/2.2e2c8c34.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.edc481cf.chunk.js"
+    "tugas1_react_jsstatic/js/runtime-main.a13e9720.js",
+    "tugas1_react_jsstatic/js/2.2e2c8c34.chunk.js",
+    "tugas1_react_jsstatic/css/main.5f361e03.chunk.css",
+    "tugas1_react_jsstatic/js/main.edc481cf.chunk.js"
   ]
 }
