@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://maulananursan.github.io/tugas1_react_js",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
